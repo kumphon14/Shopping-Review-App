@@ -1,0 +1,8 @@
+Best Model: Logistic Regression
+Text Feature: TF-IDF
+Models Compared: MultinomialNB, LogisticRegression
+Input Column: tokenized_review
+Label Column: sentiment
+Classes:
+- neg
+- pos
