@@ -1,5 +1,7 @@
-pandas==2.2.2
+pandas==2.2.3
 numpy==1.26.4
 scikit-learn==1.6.1
 joblib==1.5.3
-streaml
+streamlit==1.43.2
+attacut==1.0.6
+pythainlp==5.0.4
